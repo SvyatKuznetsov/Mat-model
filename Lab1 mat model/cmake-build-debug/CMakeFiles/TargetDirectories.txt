@@ -1,0 +1,3 @@
+D:/C++/Lab1 mat model/cmake-build-debug/CMakeFiles/Lab1_mat_model.dir
+D:/C++/Lab1 mat model/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Lab1 mat model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
